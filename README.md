@@ -1,5 +1,6 @@
 This is a clone for the cynthia ugwu (https://cynthiaugwu.com/) which was taken from the  awwards website 
-this was done for the learining purpose 
+this is a  fun website i built  for fun and also to learn new things.
+
 
 
 html css and the java script are used  in this project 
